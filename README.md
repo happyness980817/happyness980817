@@ -12,5 +12,5 @@ Frontend, Backend, AI Agent Integration, etc.
 
 # Project
 
-INOfriends Sales Manager (~2026.9) 
+INOfriends Sales Manager & AX Developer (~2026.9) 
 
