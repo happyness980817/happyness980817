@@ -14,3 +14,7 @@ Frontend, Backend, AI Agent Integration, etc.
 
 INOfriends Sales Manager & AX Developer (2026.9~) 
 
+# Nickname
+
+My nickname is inspired from the movie "The Persuit of Happyness", starring Will Smith.
+
